@@ -74,7 +74,7 @@ def SelectionTDSort(A):
 
 '''
 Creating a Selection sort algorithm using recursion. Implementing the above iterative method using recursion.
-Tail Recursion using the right most digit as the the min element.
+Tail Recursion using the right most digit as the the max element.
 '''
 
 def SelectionTDRecurSort(A):
