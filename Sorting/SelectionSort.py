@@ -95,3 +95,6 @@ def SelectionTDHelperSort(A,n):
     SelectionTDHelperSort(A,n-1)
     return
 
+
+B = [6,5,1,0]
+SelectionForSort(B)
